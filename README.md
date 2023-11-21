@@ -60,13 +60,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 
-### Installation
+### Running
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Run prediction.py MACDsignal.py and BollingerSignal.py together
 2. Run the react news app
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### demo video
+https://github.com/Kumarsn680/final-fourth-year-project/assets/89124061/0ab0550e-70d0-4e22-9c3c-e8d400e546ad
 
 
 
