@@ -25,16 +25,21 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+There are various internal and external factors that affects the prices of stocks. Apart from the
+data, these factors can largely impact the stock prices. Also, to improve the accuracy of the
+prediction, considering these factors is important. The stock prices fluctuate a lot whenever a
+sudden news strikes the market that can affect the financial factors of the stocks [1]. Also, we
+have to keep a track on the circulars that are released by SEBI (Security and Exchange board
+of India) as they can directly affect the market trend. Various approaches are used to deal
+with these problems. We have tried to get prediction of stock price using Twitter. Twitter is
+platform where we can get latest tweets and news regarding financial data and internal
+management of various companies [2][3]. All special characters along with the stop words
+were removed. Then we have filtered the data and the tweets were divided as negative neutral
+and positive depending upon their news.
+Also, we have provided the user news stock feed which will display all the financial related
+news to the user. So, if a user wants to make his own prediction based on the financial news
+manually, then he can make use of the news feed. User can also search for a specific
+company to avail all the news.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
